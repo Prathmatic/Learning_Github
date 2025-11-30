@@ -1,4 +1,4 @@
 # Learning_Github
 This is my first Git Repository.
 <br>
-Author - Prathmesh Choudhary
+Author - Prathmesh Choudhary (M.Sc. Power Engineering)
